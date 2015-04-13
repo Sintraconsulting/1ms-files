@@ -1,4 +1,4 @@
-$.getJSON( Oms.Util.getLanguageBaseUrl("menu.json"), function( data ) {
+$.getJSON("/menu.json", function( data ) {
     var checkExist = setInterval(function() {
         if ($('#main-menu-top').length) {
             clearInterval(checkExist);

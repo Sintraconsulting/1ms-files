@@ -1708,7 +1708,7 @@
         }
         
         .columns.image_bg {
-            background: url('bg_image1.jpg');
+            background: url('http://files.oneminutesite.eu/newsletter/immagini_newsletter/image_bg.jpg');
             height: 300px;
             background-position: top center;
         }

@@ -1741,10 +1741,10 @@
         }
         
         .social-div {
-            overflow: hidden;
-            margin: 0 auto;
-            text-align: center;
-            width: 250px;
+	overflow: hidden;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
         }
             .image_bg { 
              border-top-right-radius: 5px;
@@ -1774,3 +1774,6 @@
     margin-left: 5px;
 }
 
+.green-button a {
+    color:#ffffff
+}
